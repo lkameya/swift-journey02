@@ -8,7 +8,7 @@ I learned how to:
 - Draw images in Sketch
 - Export images to XCode
 - Add background image and dices images with UIImageView
-- Add a UIButton
+- Add an UIButton
 - Connect ImageView to ViewController as an IBOutlet
 - Connect Button to ViewController as an IBAction
 - Generate random numbers with arc4random
