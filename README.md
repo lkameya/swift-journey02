@@ -1,6 +1,8 @@
 # swift-journey02 - Bozo Game
 The second project of my Swift Journey - Learning Step by Step
 
+Bozó is an amazing brazilian game played with a cup and 5 dices.
+
 ![alt text](https://github.com/lkameya/swift-journey02/blob/master/simulator.gif)
 
 I learned how to:
