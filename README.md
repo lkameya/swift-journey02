@@ -1,4 +1,4 @@
-# swift-journey02
+# swift-journey02 - Bozo Game
 The second project of my Swift Journey - Learning Step by Step
 
 ![alt text](https://github.com/lkameya/swift-journey02/blob/master/simulator.gif)
